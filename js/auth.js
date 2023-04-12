@@ -1,5 +1,5 @@
 // CHANGE THIS
-var host = 'https://juno0.herokuapp.com';
+var host = 'https://hnue-reborn.onrender.com';
 //var host = 'http://localhost:5000';
 setAppUrl(host);
 
